@@ -1,0 +1,31 @@
+.titulo{
+    font-size: 50px;    
+    padding: auto;
+    margin: auto;
+    position: relative;
+    color: aqua;
+    left: 300px;
+}
+
+#titulo{
+    text-align: center;
+    
+}
+
+#aside{
+    border: 5x black;
+}
+#titanic{
+    left: 100px;
+}
+#horarios,table{
+    border: 2px black;
+}
+body{
+    background: linear-gradient(to right, blue, white);
+}
+
+.row{
+    background-color: darkgray;
+
+}
